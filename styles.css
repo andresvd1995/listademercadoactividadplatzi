@@ -1,0 +1,14 @@
+div.titulobonito{
+    width: 480px;
+    background-color: rgb(86, 186, 253);
+}
+h1.titulobonito {
+    width: 470px;
+    margin-left: 20px;
+    color: cornsilk;
+    
+}
+figcaption.underphoto{
+    margin-left: 50px;
+
+}
